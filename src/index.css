@@ -27,6 +27,8 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    url("/public/sharing3.jpeg") center/cover no-repeat;
 }
 
 .header {
