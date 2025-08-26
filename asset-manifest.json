@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Eat-n-Split/static/css/main.89241703.css",
+    "main.js": "/Eat-n-Split/static/js/main.70e25e88.js",
+    "static/media/sharing3.jpeg": "/Eat-n-Split/static/media/sharing3.4f473235c600134e6038.jpeg",
+    "index.html": "/Eat-n-Split/index.html",
+    "main.89241703.css.map": "/Eat-n-Split/static/css/main.89241703.css.map",
+    "main.70e25e88.js.map": "/Eat-n-Split/static/js/main.70e25e88.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89241703.css",
+    "static/js/main.70e25e88.js"
+  ]
+}
